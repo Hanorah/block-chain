@@ -41,7 +41,7 @@ const HeroSection = () => {
                     Introducing Blockforge
                 </p>
                 <h1 className='h1 text-center max-w-3xl mx-auto'>
-                    The Feture of Blockforge is Here.
+                    The Future of Blockforge is Here.
                 </h1>
                 <p className='text-center text-xl md:text-2xl max-w-xl mx-auto mt-6 text-zinc-400'>
                     Blockforge is pioneering smart contract integrity with
